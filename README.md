@@ -11,7 +11,7 @@ El sistema se levantará usando el archivo docker-compose.yaml incluído.
 
 La aplicacíon debe gestionar un sistema de citas médicas. 
 
-Para ello debe contener las siguientes páginas. El alumno debe decidir y justificar si será CSR, SSR o static. La justificación se hará con un comentario en el código al inicio de la página. Si no hay justificación o la justificación es incorrecta se puntuará sobre el 70%. 
+Para ello debe ofrecer las siguientes funcionalidades. El alumno debe decidir cómo distribuir las funcionalidades en diferentes páginas y justificar si cada página será CSR, SSR o static. La justificación se hará con un comentario en el código al inicio de la página. Si no hay justificación o la justificación es incorrecta se puntuará sobre el 70%. 
 
 #### `addSlot`
 Permite al médico añadir un horario disponible para una cita. 
